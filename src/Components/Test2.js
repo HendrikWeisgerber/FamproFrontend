@@ -17,13 +17,8 @@ class Test2 extends Component {
 
     return(
         <div>
-            Sieh haben folgende Daten Eingegeben: <br/>
-            {Text}
-                <br/>
-            <Link  to="/test1">
-          Zurück zur Eingabe
-        </Link>
-        
+    <h1>Es hat Funktioniert </h1>
+        Ich speichere die änderung erst wenn der Server fertig geladen hat. Der Server Start dauert immer ewig, aber wenn er einmal läuft dann läufts :D, so Speichere jetzt
             </div>
     )
   }
