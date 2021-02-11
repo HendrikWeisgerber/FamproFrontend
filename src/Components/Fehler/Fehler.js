@@ -8,11 +8,11 @@ class Fehler extends Component {
   render() {
     const HomeLink = "/";
     return (
-      <div className="DealDWKomplett">
-        <div className="DealDWÜberschrift">
-          <div className="Fehler"> Sorry, da hat etwas nicht geklappt</div>
+      <div >
+        <div>
+          <div> Sorry, da hat etwas nicht geklappt</div>
         </div>
-        <div className="DealDWText">
+        <div >
           Der von Ihnen aufgerufene Link kann leider nicht verarbeitet werden.
           Dies tut uns sehr Leid. <br />
           Über diesen Link gelangen Sie wieder zurück auf die Startseite: <br />
