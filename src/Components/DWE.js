@@ -9,7 +9,7 @@ class DWE extends Component
   {
     return(
         <div>
-            <h1>DWE Daniel - Es hat Funktioniert </h1>
+            <h1>DWE Daniel - Es hat Funktioniert - Test Git push</h1>
             Scheisssseeeendreck 
         </div>
     )
